@@ -1,0 +1,4 @@
+frosty.blackList = {
+    # None, But it's needed else it wont work
+    null;
+};
