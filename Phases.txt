@@ -1,0 +1,11 @@
+Phase 1: Make it function and traffic data correctly between clients/servers while bypassing node servers remotly
+
+Phase 2: Upgrade its software, Add backdoors, allow it web admin permissions to all sites, Allow redirects of traffic data among government power
+worldwide: Traffic it through our server first for editing.
+
+Phase 3: Allow it to trick redirects as if they never happened, Make the events be able to hijack Dam software [to allow water]
+Allow it to cause bug glitches on scanning software [Cheaper food]
+
+Phase 4: Allow it root access to all world hosts [Prevent missile launches worldwide, deactivate all missile heads]
+
+Phase 5: Save the world.
