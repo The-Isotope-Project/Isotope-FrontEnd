@@ -1,0 +1,3 @@
+frosty.groups = {
+    frosty.hasAdminPerms('true');
+};
