@@ -1,0 +1,19 @@
+# Frosty v1.0 Config File
+# "For the earth we rise"
+frosty.includes = {
+    # Use default from old frost
+    frosty.catchIncludes('includes');
+};
+
+myConfig = {
+    frosty.devMode('true');
+    frosty.require('../System/WorldIDE.fnk');
+    for (frosty.require('WorldIDE.fnk')) {
+        frosty.checkDev(isTrue);
+        return true else return false; 
+    }
+};
+
+frosty.myFiles = {
+    # Files go here.
+};
