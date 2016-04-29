@@ -1,1 +1,17 @@
-# Work On This Later
+# WorldIDE
+frosty.isOnline('false'); # Offline until launch
+
+frosty.myDatabase = {
+    frosty.require('mySQL');
+    mySQL.dataBase = [''];
+    mySQL.dataBaseName = ['WORLDIDE'];
+    mySQL.charts = [
+        "NAME", "ID", "DATE", "TIME"
+        "", "", "", "" # Requires a blank
+        frosty.addChartLine(+ Holder, number[0+1(++1)], date, time +);
+        Holder, number[0+1(++1)], date, time
+        "up;", "up;", "up;", "up;".infiniteLoop();
+    ];
+}
+
+# Continue later...
